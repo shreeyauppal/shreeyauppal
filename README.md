@@ -6,16 +6,15 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/319875/screenshots/2668298/programmer-girl.gif">
-
+<img align="right" alt="Coding Girl" width="400" src="https://cdn.dribbble.com/users/320114/screenshots/2572010/media/3b8bb7a5b92d3a7c6bb5c7b86c5bb6c8.gif">
 
 ### 🚀 About Me
 - 🎓 **3rd Year Computer Science Engineering student** at **Chitkara University**
-- 💻 **MERN Stack Developer** with strong interest in backend development
-- 🧠 Good understanding of **JavaScript, React, Node.js, MongoDB**
-- 🚀 Hands-on experience building real-world full-stack projects
-- 🎯 Continuously learning and improving problem-solving skills
-- ⚡ Fun fact: I enjoy public speaking and collaborating in team environments
+- 💻 **MERN Stack Developer** with interest in backend development
+- 🧠 Hands-on experience with **JavaScript, React, Node.js, MongoDB**
+- 🚀 Passionate about building clean, user-friendly web applications
+- 🎯 Constantly learning and improving development skills
+- ⚡ Fun fact: I enjoy public speaking and collaborating with teams
 
 ---
 
@@ -47,30 +46,30 @@
 ## 🚀 Featured Projects
 
 ### 💬 Real-Time Chat Application
-- Real-time messaging with WebSockets
-- Secure authentication & user-friendly UI
+- Real-time messaging using WebSockets
+- Secure authentication and responsive UI
 - **Tech:** React, Node.js, Express, MongoDB, Socket.io
 
 ---
 
 ### 🧳 Travel Planner Website
 - Plan trips with destinations, schedules & preferences
-- Clean UI with responsive design
+- User-friendly and responsive design
 - **Tech:** MERN Stack
 
 ---
 
 ### 🩺 Women Health Website
 - Informational platform focused on women health awareness
-- User-friendly content & structured insights
+- Structured insights and easy navigation
 - **Tech:** MERN Stack
 
 ---
 
 ## 🏆 Leadership & Experience
 - 👥 **Content Head — Bits N Bytes Club**
-- 🎤 Strong **communication & public speaking skills**
-- 🤝 Experience coordinating with teams and managing content for events
+- 🎤 Strong **communication and public speaking skills**
+- 🤝 Experience managing content and coordinating events
 
 ---
 
