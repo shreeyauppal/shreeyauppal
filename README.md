@@ -6,15 +6,15 @@
 
 </div>
 
-<img align="right" alt="Coding Girl" width="400" src="https://cdn.dribbble.com/users/320114/screenshots/2572010/media/3b8bb7a5b92d3a7c6bb5c7b86c5bb6c8.gif">
+<img align="right" alt="Coding Girl" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 🚀 About Me
 - 🎓 **3rd Year Computer Science Engineering student** at **Chitkara University**
 - 💻 **MERN Stack Developer** with interest in backend development
 - 🧠 Hands-on experience with **JavaScript, React, Node.js, MongoDB**
 - 🚀 Passionate about building clean, user-friendly web applications
-- 🎯 Constantly learning and improving development skills
-- ⚡ Fun fact: I enjoy public speaking and collaborating with teams
+- 🎯 Continuously learning and improving development skills
+- ⚡ Fun fact: I enjoy public speaking and collaborating in team environments
 
 ---
 
